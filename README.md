@@ -14,3 +14,5 @@ Hi there! I'm a full-time student based in the United Kingdom, who has a hobby i
   - I'm working on various projects to expand my CV. Feel free to check them out and contribute!
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
