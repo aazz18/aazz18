@@ -15,4 +15,13 @@ Hi there! I'm a full-time student based in the United Kingdom, who has a hobby i
 
 
 <!--START_SECTION:waka-->
+
+```python
+From: 22 June 2025 - To: 22 June 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
