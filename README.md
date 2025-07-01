@@ -17,14 +17,14 @@ Hi there! I'm a full-time student based in the United Kingdom, who has a hobby i
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 June 2025 - To: 28 June 2025
+From: 22 June 2025 - To: 30 June 2025
 
-Total Time: 13 hrs 20 mins
+Total Time: 17 hrs 55 mins
 
-Python   12 hrs 34 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.57 %
-Rust     29 mins         >------------------------   03.62 %
-Other    23 mins         >------------------------   02.84 %
-Bash     15 mins         -------------------------   01.94 %
+Python   16 hrs 27 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.88 %
+Rust     1 hr 11 mins    >>-----------------------   06.49 %
+Other    23 mins         >------------------------   02.15 %
+Bash     16 mins         -------------------------   01.46 %
 INI      0 secs          -------------------------   00.00 %
 ```
 
