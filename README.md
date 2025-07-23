@@ -17,7 +17,7 @@ Hi there! I'm a full-time student based in the United Kingdom, who has a hobby i
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 June 2025 - To: 20 July 2025
+From: 22 June 2025 - To: 21 July 2025
 
 Total Time: 20 hrs 7 mins
 
